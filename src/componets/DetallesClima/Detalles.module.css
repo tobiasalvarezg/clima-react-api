@@ -1,0 +1,29 @@
+
+.container{
+    background-color: var(--white);
+    color:rgb(230, 111, 0);
+    border-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+
+}
+
+.actual{
+    font-size: 6rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+.ambos{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.ambos p {
+    font-weight: 900;
+}
+
+.ambos span{
+    font-weight: 400;
+}
